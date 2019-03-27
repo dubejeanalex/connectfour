@@ -1,0 +1,14 @@
+C:\Users\DubeJeanAlex\source\repos\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe.config
+C:\Users\DubeJeanAlex\source\repos\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe
+C:\Users\DubeJeanAlex\source\repos\ConnectFour\ConnectFour\bin\Debug\ConnectFour.pdb
+C:\Users\DubeJeanAlex\source\repos\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csprojAssemblyReference.cache
+C:\Users\DubeJeanAlex\source\repos\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csproj.CoreCompileInputs.cache
+C:\Users\DubeJeanAlex\source\repos\ConnectFour\ConnectFour\obj\Debug\ConnectFour.exe
+C:\Users\DubeJeanAlex\source\repos\ConnectFour\ConnectFour\obj\Debug\ConnectFour.pdb
+D:\source\repos\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe.config
+D:\source\repos\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe
+D:\source\repos\ConnectFour\ConnectFour\bin\Debug\ConnectFour.pdb
+D:\source\repos\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csprojAssemblyReference.cache
+D:\source\repos\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csproj.CoreCompileInputs.cache
+D:\source\repos\ConnectFour\ConnectFour\obj\Debug\ConnectFour.exe
+D:\source\repos\ConnectFour\ConnectFour\obj\Debug\ConnectFour.pdb
